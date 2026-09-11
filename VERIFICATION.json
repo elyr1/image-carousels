@@ -1,0 +1,69 @@
+{
+  "package": "feral-blinds@0.3.1",
+  "package_unmodified": true,
+  "original_files_verified": [
+    {
+      "file": "LICENSE",
+      "sha256": "b86d35fbd8916cb5c70dc02fcb965d791fac9f4786718f8c5608b473c65f817b"
+    },
+    {
+      "file": "dist/index.cjs",
+      "sha256": "0a01486e88bf9bfc0fc8c3829fe0c8f5e10269a786109b9e4669f6b0c4d48763"
+    },
+    {
+      "file": "dist/blinds.css",
+      "sha256": "b2ae59f55dddd4e93e5051b263fa8ecd8e4655d62d8e36a40f708f542cd69ebe"
+    },
+    {
+      "file": "dist/index.d.cts",
+      "sha256": "190e46fe64677b81f1b19cc46dcce75f3aad4c1c3213b213be143a5215d9d301"
+    },
+    {
+      "file": "dist/index.js",
+      "sha256": "b92e3acb3cf6fa8e857a033d6a6673cdb1cfcb7c3bec995e7b03164818f34c71"
+    },
+    {
+      "file": "package.json",
+      "sha256": "553d71603162d7f79ae2ca6bdc51955a41e030006f6ac926ee03514ace0b052e"
+    },
+    {
+      "file": "README.md",
+      "sha256": "35fc229edbb689dd0ea25040f609c50c1be2b0c41623ae0024d306c2a42e796e"
+    },
+    {
+      "file": "dist/index.d.ts",
+      "sha256": "190e46fe64677b81f1b19cc46dcce75f3aad4c1c3213b213be143a5215d9d301"
+    }
+  ],
+  "presets": [
+    {
+      "preset": "SlabsHorizontal",
+      "all_props_match": true,
+      "wrapper_height": 520
+    },
+    {
+      "preset": "SlabsVertical",
+      "all_props_match": true,
+      "wrapper_height": 520
+    },
+    {
+      "preset": "CircularSpinnerV1",
+      "all_props_match": true,
+      "wrapper_height": 520
+    },
+    {
+      "preset": "CircularSpinnerNo2",
+      "all_props_match": true,
+      "wrapper_height": 520
+    },
+    {
+      "preset": "TitledCircularSpinner",
+      "all_props_match": true,
+      "wrapper_height": 520
+    }
+  ],
+  "omitted_props_preserved": true,
+  "production_build": "passed: vite 8.3.0, exit code 0",
+  "browser_testing_performed": false,
+  "preview_artwork": "Built-in feral-blinds gradient artwork; no external images required."
+}
